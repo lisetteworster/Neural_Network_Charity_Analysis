@@ -9,9 +9,9 @@
 ![](Resources/images/deliverable1_2.png)
 
 		What variable(s) are considered to be the features for your model?
-			every column except for "IS_sUCCESSFUL"
+			every column except for "IS_SUCCESSFUL"
 		What variable(s) are neither targets nor features, and should be removed from the input data?
-		
+			used "EIN", "NAME" because they will have little to no impact on our outcome
 ![](Resources/images/deliverable1.png)		
 
 **Compiling, Training, and Evaluating the Model**
@@ -27,7 +27,7 @@
 ![](Resources/images/deliverable2_2.png)
 
 		What steps did you take to try and increase model performance?
-			dropping more columns
+			dropping more columns "USE_CASE"
 ## **step 1**
 ![](Resources/images/deliverable3.png)
 
@@ -52,6 +52,6 @@
 ![](Resources/images/deliverable4_3_1.png)
 			
 # Summary
-	The overall results of the deep learning model never achieved the overall goal of over 75% optimization. A recommendation for how a different model could solve this classification problem would be keep dropping columns since the increase was so little when we dropped "USE_CASE".
+	The overall results of the deep learning model never achieved the overall goal of over 75% optimization. A recommendation for how a different model could solve this classification problem would be keep dropping even more columns that will not disrupt the outcome.
 	
 ![](Resources/images/summary.png)

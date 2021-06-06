@@ -2,7 +2,7 @@
 	Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), we preprocess the dataset in order to compile, train, and evaluate the neural network model to aid this project in machine learning.
 
 ## Results
-	**Data Preprocessing**
+		Data Preprocessing
 		What variable(s) are considered the target(s) for your model?
 			the variable we use as the target "IS_SUCCESSFUL" column
 ![](Resources/images/deliverable1_2.png)
@@ -13,7 +13,7 @@
 		
 ![](Resources/images/deliverable1.png)		
 
-	**Compiling, Training, and Evaluating the Model**
+	Compiling, Training, and Evaluating the Model
 		How many neurons, layers, and activation functions did you select for your neural network model, and why?
 			I used two hidden layers on my model. My first layer had 80 neurons, the second layer had 30 neurons. Using the activation "relu" and the output layer as "sigmoid"
 			

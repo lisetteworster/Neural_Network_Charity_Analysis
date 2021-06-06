@@ -2,9 +2,9 @@
 	Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), we preprocess the dataset in order to compile, train, and evaluate the neural network model to aid this project in machine learning.
 
 ## Results
-		Data Preprocessing
-		What variable(s) are considered the target(s) for your model?
-			the variable we use as the target "IS_SUCCESSFUL" column
+**Data Preprocessing**
+	What variable(s) are considered the target(s) for your model?
+		the variable we use as the target "IS_SUCCESSFUL" column
 ![](Resources/images/deliverable1_2.png)
 
 		What variable(s) are considered to be the features for your model?

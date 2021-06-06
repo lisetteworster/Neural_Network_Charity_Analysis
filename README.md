@@ -26,26 +26,26 @@
 
 		What steps did you take to try and increase model performance?
 			dropping more columns
-**step 1**
+## **step 1**
 ![](Resources/images/deliverable3.png)
 
-**step 2**
+## **step 2**
 ![](Resources/images/deliverable3_1.png)
 
-**step 3**
+## **step 3**
 ![](Resources/images/deliverable3_2.png)
 
-**step 4**
+## **step 4**
 ![](Resources/images/deliverable3_3.png)
 
-**step 5**
+## **step 5**
 ![](Resources/images/deliverable4.png)
 
-**step 6**
+## **step 6**
 ![](Resources/images/deliverable4_2.png)
 ![](Resources/images/deliverable4_2_1.png)
 
-**step 7**
+## **step 7**
 ![](Resources/images/deliverable4_3.png)
 ![](Resources/images/deliverable4_3_1.png)
 			

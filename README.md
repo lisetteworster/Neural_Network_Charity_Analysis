@@ -2,7 +2,7 @@
 	Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), we preprocess the dataset in order to compile, train, and evaluate the neural network model to aid this project in machine learning.
 
 ## Results
-	Data Preprocessing
+	**Data Preprocessing**
 		What variable(s) are considered the target(s) for your model?
 			the variable we use as the target "IS_SUCCESSFUL" column
 ![](Resources/images/Deliverable1_2.png)
@@ -19,9 +19,9 @@
 			I was not able to achieve the target model performance after three attempts the best overall was still around 72%
 ![](Resources/images/Deliverable2_2.png)
 		What steps did you take to try and increase model performance?
-			step 1
+**step 1**
 ![](Resources/images/Deliverable3.png)
-			step 2
+			**step 2
 ![](Resources/images/Deliverable3_1.png)
 			step 3
 ![](Resources/images/Deliverable3_2.png)
@@ -38,4 +38,5 @@
 			
 # Summary
 	The overall results of the deep learning model never achieved the overall goal of over 75% optimization. A recommendation for how a different model could solve this classification problem would be keep dropping columns since the increase was so little when we dropped "USE_CASE".
+	
 ![](Resources/images/summary.png)
